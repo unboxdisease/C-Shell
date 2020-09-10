@@ -1,5 +1,10 @@
 # C-Shell
 simple c-shell 
+**NAME** : kushal Kumar Jain 
+**ROLL-NO.** : 2019111001
+>How to run
+- run *make* on command line
+- start shell with *./a.out*
 
 
 
